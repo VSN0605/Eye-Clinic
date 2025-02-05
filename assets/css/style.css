@@ -1718,7 +1718,9 @@ select:focus {
 .header-left .logo {
     position: relative;
     display: block;
-    padding: 41px 0;
+    padding: 24px 0;
+    height: 70px;
+    width: 70px;
 }
 .header-left .logo a{
     position: relative;
@@ -4236,6 +4238,8 @@ select:focus {
     position: relative;
     display: block;
     padding-bottom: 39px;
+    height: 60px;
+    width: 60px;
 }
 .single-footer-widget .our-company-info .footer-logo a{
     display: inline-block;
