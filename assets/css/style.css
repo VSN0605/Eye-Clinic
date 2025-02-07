@@ -3162,8 +3162,8 @@ select:focus {
 .choose-tab-content-box .bottom-content .text-box ul li{
     position: relative;
     display: block;
-    font-size: 20px;
-    line-height: 44px;
+    font-size: 15px;
+    line-height: 35px;
     padding-left: 40px;
 }
 .choose-tab-content-box .bottom-content .text-box ul li:before{
